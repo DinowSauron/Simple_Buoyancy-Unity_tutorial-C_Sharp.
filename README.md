@@ -2,8 +2,10 @@
   
   
 This content is part of a video where I show you how to apply it correctly!
+
 Video Tutorial: https://www.youtube.com/watch?v=_rrmkSGbQCs&ab_channel=THERedstoneBR
 
+Youtube Channel: https://www.youtube.com/c/THERedstoneBR
 
 # Pt-Br:
 
@@ -28,5 +30,4 @@ Any bug with the scripts say in the comments earlier, try to see if it helps you
 5-Place the ship/object As the last parent of this object, do not place it inside any other object let it be the last!
 
 
-Youtube Channel: https://www.youtube.com/c/THERedstoneBR
 
