@@ -7,7 +7,7 @@ Video Tutorial: [Unity Tutorial: Flutuabilidade Simples](https://www.youtube.com
 
 Youtube Channel: [The Redstone BR](https://www.youtube.com/c/THERedstoneBR)
 
-# Pt-Br:
+## Pt-Br:
 
 É de importancia vital que você tenha visto TODO o video tutorial para saber quais bugs podem ocorrer e como conserta-los.
 Qualquer bug com os scripts diga nos comentários mais antes, tente ver se isso lhe ajuda:
@@ -19,7 +19,7 @@ Qualquer bug com os scripts diga nos comentários mais antes, tente ver se isso 
 
 
 
-# En-Us:
+## En-Us:
 
 It is vitally important that you have seen ALL of the video tutorials to know what bugs may occur and how to fix them.
 Any bug with the scripts say in the comments earlier, try to see if it helps you:
